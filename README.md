@@ -55,3 +55,30 @@ tools.devopsy.pl
 > # 10\. Checkov
 > 
 > Ok, here’s the final pearl. [Checkov.io](http://checkov.io/) is a static code analysis tool for checking infrastructure as code misconfiguration. I cannot express how much this one can help find and fix the most basic (and advanced) security problems in your cloud infrastructure, and it comes with support to a whole world of different IaC tools. I also love it because you can run it from the command line.
+
+
+# Management
+
+
+
+
+[Welcome - Portainer Documentation](https://docs.portainer.io/)
+
+> **Portainer Community Edition (CE)** is our foundation. With over half a million regular users, CE is a powerful, open source toolset that allows you to easily build and manage containers in Docker, Docker Swarm, Kubernetes and Azure ACI.
+> 
+> **Portainer Business Edition (BE)** is our commercial offering. With features geared towards businesses and larger organizations such as , , and
+> 
+> , Portainer BE is a powerful toolset that allows you to easily build and manage containers in Docker, Docker Swarm, Kubernetes and Azure ACI.
+> 
+> Portainer Business Edition requires a license key to install and use. If you don't currently have a license key, you can of Portainer Business Edition or purchase Portainer Business Edition for your organization by
+> 
+> .
+> 
+> Portainer hides the complexity of managing containers behind an easy-to-use UI. By removing the need to use the CLI, write YAML or understand manifests, Portainer makes deploying apps and troubleshooting problems so easy that anyone can do it.
+
+
+
+
+
+
+# Monitoring
