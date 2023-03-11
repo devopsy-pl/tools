@@ -6,6 +6,15 @@
 + [Bash Tool – DevOps Shop](https://bashtool.com/)
 
 
+## Kubeflow
+
++ [DSL Static Type Checking - Kubeflow](https://www.kubeflow.org/docs/components/pipelines/v1/sdk/static-type-checking/)
++ [How to install Charmed Kubeflow | Documentation | Charmed Kubeflow](https://charmed-kubeflow.io/docs/install)
+
+
+## KubeVirt
++ [Virtualization with Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization)
+
 
 
 ## VMware
