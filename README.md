@@ -1,5 +1,26 @@
-# tools
-tools.devopsy.pl
+# tools.devopsy.pl
+
+
+## our websites
+
++ [Bash Tool – DevOps Shop](https://bashtool.com/)
+
+
+
+
+## VMware
+
++ [Get Started - VMware Tanzu](https://tanzu.vmware.com/get-started)
++ [Deploying the vCenter Server Appliance](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vcenter.install.doc/GUID-F06BA415-66D8-42CD-9151-701BBBCE8D65.html)
++ [vSphere 7 with Kubernetes - Tanzu Kubernetes cluster - Technical Overview - YouTube](https://www.youtube.com/watch?v=BukxNlznftI)
++ [VMware vCenter Server Photon OS Security Patches](https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vcenter-server-appliance-photonos-security-patches.html)
++ [All Downloads](https://customerconnect.vmware.com/downloads/#all_products)
+
+
+
+
+
+## Tools
 
 
 [Top 10 uncommon DevOps tools you should know | Top of the OPS](https://medium.com/leapp-cloud/top-10-uncommon-devops-tools-you-should-know-91dadde9777e)
@@ -82,3 +103,10 @@ tools.devopsy.pl
 
 
 # Monitoring
+
+
+
+---
+
++ [edit](https://github.com/devopsy-pl/tools/edit/main/README.md)
+
